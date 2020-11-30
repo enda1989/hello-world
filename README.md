@@ -1,2 +1,1 @@
-# endu/hello-world
-just first repository
+# Hello/hello-world
